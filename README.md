@@ -1,1 +1,1 @@
-# exerccios_SQA
+# exercicios_SQA
